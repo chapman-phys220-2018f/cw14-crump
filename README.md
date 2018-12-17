@@ -17,7 +17,12 @@ In this supplemental classwork, you will explore the differences between ```pyth
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+I tried to use mathlab a bit and i noticed that it is indeeded simillar to what we know, here is a plot exam0le:
+x = 0:pi/100:2*pi;
+y = cos(x);
+plot(x,y)
+
+
 
 ** Natanael Alpay, Conner Carnahan**
 
