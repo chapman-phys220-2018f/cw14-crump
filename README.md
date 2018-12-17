@@ -18,9 +18,9 @@ In this supplemental classwork, you will explore the differences between ```pyth
 ## Assessment
 
 I tried to use mathlab a bit and i noticed that it is indeeded simillar to what we know, here is a plot exam0le:
-x = 0:pi/100:2*pi;\\
-y = cos(x);\\
-plot(x,y)\\
+x = 0:pi/100:2*pi;
+y = cos(x);
+plot(x,y)
 
 
 
